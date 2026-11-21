@@ -52,7 +52,7 @@ export const projects = [
     peran: null,
     strategi: null,
     pelaksanaan: null,
-    hasil: "Finalis PIMNAS ke-39 PKM-PM.",
+    hasil: ["Finalis PIMNAS ke-39 PKM-PM."],
   },
   {
     slug: "ipb-run-2026",
@@ -64,6 +64,7 @@ export const projects = [
     latarBelakang: null,
     tujuan: null,
     peran: ["Koordinator Divisi Marshal IPB Run 2026."],
+    strategi: null,
     pelaksanaan: null,
     hasil: null,
   },
@@ -80,8 +81,6 @@ export const projects = [
     strategi: null,
     pelaksanaan: null,
     hasil: null,
-  },
-    ],
   },
 ];
 
