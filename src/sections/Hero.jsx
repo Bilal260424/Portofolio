@@ -33,7 +33,7 @@ export default function Hero() {
             {...item(1)}
             className="mt-7 max-w-xl font-heading text-lg font-semibold leading-snug text-navy sm:text-xl"
           >
-            Mahasiswa Manajemen Agribisnis yang tertarik pada kepemimpinan, pengembangan organisasi, dan manajemen proyek.
+            Mahasiswa Manajemen Agribisnis yang tertarik pada kepemimpinan, pengembangan organisasi, dan manajemen project.
           </motion.p>
 
           <motion.p {...item(2)} className="mt-5 max-w-lg text-base leading-relaxed text-navy/70">
@@ -42,7 +42,7 @@ export default function Hero() {
           </motion.p>
 
           <motion.div {...item(3)} className="mt-9 flex flex-wrap gap-3">
-            <Button onClick={() => scrollToId("project")}>Lihat Project</Button>
+            <Button onClick={() => scrollToId("proyek")}>Lihat Project</Button>
             <Button variant="secondary" onClick={() => scrollToId("kontak")}>
               Hubungi Saya
             </Button>
