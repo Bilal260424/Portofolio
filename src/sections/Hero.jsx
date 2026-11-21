@@ -38,13 +38,13 @@ export default function Hero() {
 
           <motion.p {...item(2)} className="mt-5 max-w-lg text-base leading-relaxed text-navy/70">
             Saya belajar di IPB University, Bogor, dan aktif memimpin organisasi serta kepanitiaan kegiatan kampus.
-            Situs ini merangkum pengalaman, proyek, dan pencapaian saya.
+            Portofolio ini merangkum pengalaman, project, dan pencapaian saya.
           </motion.p>
 
           <motion.div {...item(3)} className="mt-9 flex flex-wrap gap-3">
-            <Button onClick={() => scrollToId("proyek")}>Lihat proyek</Button>
+            <Button onClick={() => scrollToId("project")}>Lihat Project</Button>
             <Button variant="secondary" onClick={() => scrollToId("kontak")}>
-              Hubungi saya
+              Hubungi Saya
             </Button>
           </motion.div>
         </div>
