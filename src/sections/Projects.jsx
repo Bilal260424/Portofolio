@@ -56,8 +56,8 @@ export default function Projects() {
       <div className="container-page">
         <SectionHeading
           id="judul-proyek"
-          title="Proyek pilihan"
-          lead="Empat proyek yang paling mewakili pengalaman saya. Buka setiap kartu untuk melihat detailnya."
+          title="Project Pilihan"
+          lead="lima project yang paling mewakili pengalaman saya. Buka setiap kartu untuk melihat detailnya."
         />
 
         <motion.ul
