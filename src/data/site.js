@@ -11,8 +11,8 @@ export const site = {
   location: "Bogor, Indonesia",
 
   // GANTI: email dan LinkedIn di bawah masih contoh
-  email: "email-anda@contoh.com",
-  linkedin: "https://www.linkedin.com/in/username-anda",
+  email: "syayid.bilal12@gmail.com",
+  linkedin: "https://www.linkedin.com/in/s-bilalnn",
 
   // Path relatif terhadap folder /public
   cv: "cv/CV-Syayid-Bilal-Notro-Negoro.pdf",
