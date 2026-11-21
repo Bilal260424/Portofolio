@@ -24,7 +24,7 @@ export const navItems = [
   { id: "tentang", label: "Tentang" },
   { id: "kompetensi", label: "Kompetensi" },
   { id: "pengalaman", label: "Pengalaman" },
-  { id: "project", label: "Project" },
+  { id: "proyek", label: "Project" },
   { id: "pencapaian", label: "Pencapaian" },
   { id: "dokumentasi", label: "Dokumentasi" },
   { id: "kontak", label: "Kontak" },
