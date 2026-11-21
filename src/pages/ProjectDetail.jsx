@@ -14,7 +14,7 @@ function BackLink() {
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
         <path d="M19 12H5M11 6l-6 6 6 6" />
       </svg>
-      Semua proyek
+      Semua project
     </Link>
   );
 }
@@ -36,8 +36,8 @@ export default function ProjectDetail() {
   if (!project) {
     return (
       <section className="container-page section-y">
-        <h1 className="text-3xl font-extrabold sm:text-4xl">Proyek tidak ditemukan</h1>
-        <p className="mt-4 text-navy/70">Alamat proyek yang Anda buka tidak tersedia.</p>
+        <h1 className="text-3xl font-extrabold sm:text-4xl">Project tidak ditemukan</h1>
+        <p className="mt-4 text-navy/70">Alamat project yang Anda buka tidak tersedia.</p>
         <div className="mt-8">
           <BackLink />
         </div>
@@ -102,10 +102,10 @@ export default function ProjectDetail() {
         </Reveal>
       </div>
 
-      <nav aria-label="Proyek berikutnya" className="on-dark bg-navy">
+      <nav aria-label="Project berikutnya" className="on-dark bg-navy">
         <div className="container-page flex flex-col gap-4 py-12 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p className="text-sm text-white/60">Proyek berikutnya</p>
+            <p className="text-sm text-white/60">Project berikutnya</p>
             <p className="mt-2 max-w-xl font-heading text-xl font-bold leading-snug text-white sm:text-2xl">
               {next.title}
             </p>
@@ -114,7 +114,7 @@ export default function ProjectDetail() {
             to={`/proyek/${next.slug}`}
             className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 font-heading text-sm font-semibold text-navy transition-colors hover:bg-mist"
           >
-            Buka proyek
+            Buka Project
           </Link>
         </div>
       </nav>
