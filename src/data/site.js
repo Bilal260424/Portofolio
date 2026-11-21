@@ -24,7 +24,7 @@ export const navItems = [
   { id: "tentang", label: "Tentang" },
   { id: "kompetensi", label: "Kompetensi" },
   { id: "pengalaman", label: "Pengalaman" },
-  { id: "proyek", label: "Proyek" },
+  { id: "project", label: "Project" },
   { id: "pencapaian", label: "Pencapaian" },
   { id: "dokumentasi", label: "Dokumentasi" },
   { id: "kontak", label: "Kontak" },
@@ -32,27 +32,27 @@ export const navItems = [
 
 export const about = {
   lead:
-    "Saya Syayid Bilal Notro Negoro, mahasiswa Manajemen Agribisnis IPB University yang tertarik pada kepemimpinan, pengembangan organisasi, dan manajemen proyek.",
+    "Saya Syayid Bilal Notro Negoro, mahasiswa Manajemen Agribisnis IPB University yang tertarik pada kepemimpinan, pengembangan organisasi, dan manajemen project.",
   blocks: [
     {
       title: "Pendidikan",
       text:
-        "Manajemen Agribisnis di IPB University, Bogor. Saya juga tercatat sebagai awardee Asrama Kepemimpinan 2025–2027.",
+        "Manajemen Agribisnis di IPB University, Bogor. Belajar tentang bagaimana Agribisnis dari hulu hingga ke hilir, sampai dengan lingkung manajerialnya.",
     },
     {
-      title: "Perjalanan organisasi",
+      title: "Perjalanan Organisasi",
       text:
-        "Saya menjabat sebagai Menteri Kementerian Pemuda dan Olahraga di BEM KM IPB, dan memegang peran kunci di beberapa kepanitiaan: Ketua Pelaksana Vocational IPB Sport Competition 2025, Kepala Divisi K3 Pekan Apresiasi IPB 2025, dan Koordinator Divisi Marshal IPB Run 2026.",
+        "Saya menjabat sebagai Menteri Kementerian Pemuda dan Olahraga di BEM KM IPB (2026), Staff Departemen Olahraga BEM SV IPB (2026), dan memegang peran kunci di beberapa kepanitiaan: Ketua Pelaksana Vocational IPB Sport Competition 2025, Kepala Divisi K3 Pekan Apresiasi IPB 2025, Koordinator Divisi Marshal IPB Run 2026. Koordinator Divisi Olahraga PRA-IPK 2025, dan masih banyak lagi.",
     },
     {
-      title: "Minat profesional",
+      title: "Minat Profesional",
       text:
-        "Kepemimpinan, pengembangan organisasi, manajemen proyek, dan kolaborasi dengan berbagai pemangku kepentingan.",
+        "Organizational Development, Project Management, Human Resources & People Development, Business Development & Strategic Partnership.",
     },
     {
-      title: "Pendekatan kerja",
+      title: "Pendekatan Kerja",
       text:
-        "Saya mengutamakan perencanaan yang terstruktur, pembagian peran yang jelas, dan komunikasi terbuka dengan semua pihak yang terlibat, agar kegiatan berjalan tertib dan dapat dipertanggungjawabkan.",
+        "Saya mengutamakan perencanaan yang terstruktur, pembagian peran yang jelas, dan komunikasi terbuka dengan semua pihak yang terlibat, agar kegiatan berjalan maksimal dan dapat dipertanggungjawabkan.",
     },
   ],
 };
