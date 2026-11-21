@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Tambahkan baris Sitemap setelah situs di-deploy, mis.:
+# Sitemap: https://contoh-domain.com/sitemap.xml
